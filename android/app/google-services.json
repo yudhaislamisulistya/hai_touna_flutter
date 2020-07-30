@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "538185484629",
+    "firebase_url": "https://hai-touna.firebaseio.com",
+    "project_id": "hai-touna",
+    "storage_bucket": "hai-touna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538185484629:android:8bddd40b08c1c48c1907dc",
+        "android_client_info": {
+          "package_name": "com.leadevs.haitouna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538185484629-p5ig9n3afagqp8rqj8m9781dqjpoeht0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leadevs.haitouna",
+            "certificate_hash": "6b5f24694e391ab94c682cc74524309885538fd5"
+          }
+        },
+        {
+          "client_id": "538185484629-qh6hvso4coevdb51mn64gk03smkgk48q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPwAZnBV53JIbfZro6uaU18MIPqRWuhjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538185484629-qh6hvso4coevdb51mn64gk03smkgk48q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
